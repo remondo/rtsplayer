@@ -1,0 +1,36 @@
+{
+  "name": "cordova-plugin-rtsplayer",
+  "version": "1.0.1",
+  "description": "A simple cordova rtsp player.",
+  "cordova": {
+    "id": "cordova-plugin-rtsplayer",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipew/rtsplayer.git"
+  },
+  "keywords": [
+    "cordova",
+    "rts",
+    "player"
+  ],
+  "author": "felipew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flpwgr/rtsplayer/issues"
+  },
+  "homepage": "https://github.com/flpwgr/rtsplayer/blob/master/README.md"
+}
